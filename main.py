@@ -1,0 +1,1 @@
+<font color="#4E9A06">uv run fastapi</font> dev
